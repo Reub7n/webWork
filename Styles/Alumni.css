@@ -1,0 +1,58 @@
+body{
+    background-image: url('../Images/school.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    height: 95vh;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 2em;
+}
+#p{
+    text-align: center;
+    font-size: 1.2em;
+}
+.app__alumni_form{
+    background-color: rgba(135, 206, 235, 0.8);
+    height: 500px;
+    width: 640px;
+    text-align: center;
+    margin-left: 60vh;
+    border-radius: 2em;
+    font-size: 1em;
+}
+input[type="submit"]{
+    background-color: #6090a6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.25em;
+    border-radius: 2em;
+    font-weight: bolder;
+    border: 0;
+    width: 12%;
+    height: 3.5vh;
+    cursor: pointer;
+}
+button[type="button"]{
+    background-color: #6090a6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    border-radius: 2em;
+    font-weight: bolder;
+    border: 0;
+    width: 7%;
+    height: 3.5vh;
+    cursor: pointer;
+}
+.alumni_list{
+    background-color: rgba(135, 206, 235, 0.8);
+    height: 250px;
+    width: 950px;
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 40vh;
+    border-radius: 1em;
+    font-size: 1em;
+}

@@ -1,0 +1,36 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url('../Images/school.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 95vh;
+}
+form{
+    background-color: rgba(135, 206, 235, 0.8);
+    font-weight: bold;
+    border-radius: 2em;
+}
+input[type="submit"]{
+    background-color: #6090a6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    border-radius: 2em;
+    font-weight: bold;
+    border: 0;
+    width: 8%;
+    height: 4vh;
+    cursor: pointer;
+}
+h2{
+    text-decoration: underline;
+    font-size: 2em;
+}
+input[type="password"]{
+    width:200px;
+    height:1.5em;
+}
+input[type="text"]{
+    width: 200px;
+    height:1.5em;
+}
