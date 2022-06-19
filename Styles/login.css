@@ -10,6 +10,9 @@ form{
     background-color: rgba(135, 206, 235, 0.8);
     font-weight: bold;
     border-radius: 2em;
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
 }
 input[type="submit"]{
     background-color: #6090a6;
@@ -18,8 +21,8 @@ input[type="submit"]{
     border-radius: 2em;
     font-weight: bold;
     border: 0;
-    width: 8%;
-    height: 4vh;
+    width: 15%;
+    height: 10%;
     cursor: pointer;
 }
 h2{
@@ -33,4 +36,15 @@ input[type="password"]{
 input[type="text"]{
     width: 200px;
     height:1.5em;
+}
+input[type="button"]{
+    background-color: #6090a6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    border-radius: 2em;
+    font-weight: bold;
+    border: 0;
+    width: 23%;
+    height: 12%;
+    cursor: pointer;
 }
