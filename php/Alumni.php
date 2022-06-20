@@ -20,7 +20,7 @@
     ?>
     <h1>Views Sec. School Alumni.</h1>
 
-    <p id="p">Are you an alumni? <button type="button" id="alumniBtn">Join Here</button></p>   
+    <p id="p">Are you an alumnus? <button type="button" id="alumniBtn">Join Here</button></p>   
     <div class="app__alumni_form" id="alumniForm">
       <form action="./Alum.php" method="post">
 
