@@ -10,12 +10,17 @@ const alumniButton = document.getElementById('alumniBtn');
 // state
 let isAlumniOpen = false;
 
-const years = [2021, 2020, 2019, 2018, 2017];
+const years = [2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013];
 const headmasters = [
   "Michael Jordan",
   "Abraham Lincoln",
   "Cristopher Nolan",
   "David Armstrong",
+  "Helsings Nello",
+  "Shanas Kashoggi",
+  "Benedict Cumberbatch",
+  "Reuben Mbappe",
+  "Oliver Queen",
 ];
 
 const famousTeachers = [
@@ -25,6 +30,9 @@ const famousTeachers = [
   "Ms. Habibti",
   "Philemon Khazri",
   "Jordan Luis",
+  "Lubango Minzo",
+  "Dracula Untold",
+  "Leonard Peter",
 ];
 
 const results = ["Div I", "Div II", "Div III", "Div IV", "Div 0"];
