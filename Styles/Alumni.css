@@ -20,7 +20,7 @@ h1{
     height: 500px;
     width: 640px;
     text-align: center;
-    margin-left: 60vh;
+    margin-left: 50vh;
     border-radius: 2em;
     font-size: 1em;
 }
@@ -52,7 +52,18 @@ button[type="button"]{
     width: 950px;
     margin-top: 25px;
     text-align: center;
-    margin-left: 40vh;
+    margin-left: 30vh;
     border-radius: 1em;
     font-size: 1em;
+}
+.logout{
+    background-color: #6090a6;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    border-radius: 2em;
+    font-weight: bolder;
+    border: 0;
+    width: 9%;
+    height: 4vh;
+    cursor: pointer;
 }
