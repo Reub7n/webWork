@@ -54,7 +54,6 @@
         <input type="submit" value="Join">
       </form>
     </div>
-    <a href="logout.php">Logout</a>
     <div class="alumni_list">
       <table border="1">
         <tr><br>
@@ -99,6 +98,7 @@
           }
         ?>
       </table>
+      <br><button class="logout"><a href="logout.php">Logout</a></button>
     </div>
     <script src="Alumni.js"></script>
   </body>
